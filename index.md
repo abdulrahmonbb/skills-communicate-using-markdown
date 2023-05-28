@@ -6,3 +6,7 @@
 git init
 git status
 ```
+
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
